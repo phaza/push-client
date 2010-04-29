@@ -10,7 +10,6 @@ begin
     gem.email = "peter.haza@gmail.com"
     gem.homepage = "http://github.com/phaza/push-client"
     gem.authors = ["Peter Haza"]
-    gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new
