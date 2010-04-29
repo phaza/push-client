@@ -20,9 +20,11 @@ Gem::Specification.new do |s|
     ".document",
      ".gitignore",
      "LICENSE",
+     "README.markdown",
      "Rakefile",
      "VERSION",
-     "lib/push-client.rb"
+     "lib/push-client.rb",
+     "push-client.gemspec"
   ]
   s.homepage = %q{http://github.com/phaza/push-client}
   s.rdoc_options = ["--charset=UTF-8"]
