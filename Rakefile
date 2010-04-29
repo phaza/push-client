@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "push-client"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{A subscriber and publisher client for talking with a pubsubhubbub}
+    gem.description = %Q{A subscriber and publisher client for talking with a pubsubhubbub.}
     gem.email = "peter.haza@gmail.com"
     gem.homepage = "http://github.com/phaza/push-client"
     gem.authors = ["Peter Haza"]
